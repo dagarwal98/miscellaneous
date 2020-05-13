@@ -1,0 +1,156 @@
+Manufacturer,Model,Sales_in_thousands,Vehicle_type
+Acura,Integra,16.919,Passenger
+Acura,TL,39.384,Passenger
+Acura,CL,14.114,Passenger
+Acura,RL,8.588,Passenger
+Audi,A4,20.397,Passenger
+Audi,A6,18.78,Passenger
+Audi,A8,1.38,Passenger
+BMW,323i,19.747,Passenger
+BMW,328i,9.231,Passenger
+BMW,528i,17.527,Passenger
+Buick,Century,91.561,Passenger
+Buick,Regal,39.35,Passenger
+Buick,Park Avenue,27.851,Passenger
+Buick,LeSabre,83.257,Passenger
+Cadillac,DeVille,63.729,Passenger
+Cadillac,Seville,15.943,Passenger
+Cadillac,Eldorado,6.536,Passenger
+Cadillac,Catera,11.185,Passenger
+Cadillac,Escalade,14.785,Car
+Chevrolet,Cavalier,145.519,Passenger
+Chevrolet,Malibu,135.126,Passenger
+Chevrolet,Lumina,24.629,Passenger
+Chevrolet,Monte Carlo,42.593,Passenger
+Chevrolet,Camaro,26.402,Passenger
+Chevrolet,Corvette,17.947,Passenger
+Chevrolet,Prizm,32.299,Passenger
+Chevrolet,Metro,21.855,Passenger
+Chevrolet,Impala,107.995,Passenger
+Chrysler,Sebring Coupe,7.854,Passenger
+Chrysler,Sebring Conv.,32.775,Passenger
+Chrysler,Concorde,31.148,Passenger
+Chrysler,Cirrus,32.306,Passenger
+Chrysler,LHS,13.462,Passenger
+Chrysler,Town & Country,53.48,Car
+Chrysler,300M,30.696,Passenger
+Dodge,Neon,76.034,Passenger
+Dodge,Avenger,4.734,Passenger
+Dodge,Stratus,71.186,Passenger
+Dodge,Intrepid,88.028,Passenger
+Dodge,Viper,0.916,Passenger
+Dodge,Ram Pickup,227.061,Car
+Dodge,Ram Wagon,16.767,Car
+Dodge,Ram Van,31.038,Car
+Dodge,Dakota,111.313,Car
+Dodge,Durango,101.323,Car
+Dodge,Caravan,181.749,Car
+Ford,Escort,70.227,Passenger
+Ford,Mustang,113.369,Passenger
+Ford,Contour,35.068,Passenger
+Ford,Taurus,245.815,Passenger
+Ford,Focus,175.67,Passenger
+Ford,Crown Victoria,63.403,Passenger
+Ford,Explorer,276.747,Car
+Ford,Windstar,155.787,Car
+Ford,Expedition,125.338,Car
+Ford,Ranger,220.65,Car
+Ford,F-Series,540.561,Car
+Honda,Civic,199.685,Passenger
+Honda,Accord,230.902,Passenger
+Honda,CR-V,73.203,Car
+Honda,Passport,12.855,Car
+Honda,Odyssey,76.029,Car
+Hyundai,Accent,41.184,Passenger
+Hyundai,Elantra,66.692,Passenger
+Hyundai,Sonata,29.45,Passenger
+Infiniti,I30,23.713,Passenger
+Jaguar,S-Type,15.467,Passenger
+Jeep,Wrangler,55.557,Car
+Jeep,Cherokee,80.556,Car
+Jeep,Grand Cherokee,157.04,Car
+Lexus,ES300,24.072,Passenger
+Lexus,GS300,12.698,Passenger
+Lexus,GS400,3.334,Passenger
+Lexus,LS400,6.375,Passenger
+Lexus,LX470,9.126,Car
+Lexus,RX300,51.238,Car
+Lincoln,Continental,13.798,Passenger
+Lincoln,Town car,48.911,Passenger
+Lincoln,Navigator,22.925,Car
+Mercedes-B,C-Class,18.392,Passenger
+Mercedes-B,E-Class,27.602,Passenger
+Mercedes-B,S-Class,16.774,Passenger
+Mercedes-B,SL-Class,3.311,Passenger
+Mercedes-B,SLK,7.998,Passenger
+Mercedes-B,SLK230,1.526,Passenger
+Mercedes-B,CLK Coupe,11.592,Passenger
+Mercedes-B,CL500,0.954,Passenger
+Mercedes-B,M-Class,28.976,Car
+Mercury,Mystique,14.351,Passenger
+Mercury,Cougar,26.529,Passenger
+Mercury,Sable,67.956,Passenger
+Mercury,Grand Marquis,81.174,Passenger
+Mercury,Mountaineer,27.609,Car
+Mercury,Villager,20.38,Car
+Mitsubishi,Mirage,26.232,Passenger
+Mitsubishi,Eclipse,42.541,Passenger
+Mitsubishi,Galant,55.616,Passenger
+Mitsubishi,Diamante,5.711,Passenger
+Mitsubishi,3000GT,0.11,Passenger
+Mitsubishi,Montero,11.337,Car
+Mitsubishi,Montero Sport,39.348,Car
+Nissan,Sentra,42.643,Passenger
+Nissan,Altima,88.094,Passenger
+Nissan,Maxima,79.853,Passenger
+Nissan,Quest,27.308,Car
+Nissan,Pathfinder,42.574,Car
+Nissan,Xterra,54.158,Car
+Nissan,Frontier,65.005,Car
+Oldsmobile,Cutlass,1.112,Passenger
+Oldsmobile,Intrigue,38.554,Passenger
+Oldsmobile,Alero,80.255,Passenger
+Oldsmobile,Aurora,14.69,Passenger
+Oldsmobile,Bravada,20.017,Car
+Oldsmobile,Silhouette,24.361,Car
+Plymouth,Neon,32.734,Passenger
+Plymouth,Breeze,5.24,Passenger
+Plymouth,Voyager,24.155,Car
+Plymouth,Prowler,1.872,Passenger
+Pontiac,Sunfire,51.645,Passenger
+Pontiac,Grand Am,131.097,Passenger
+Pontiac,Firebird,19.911,Passenger
+Pontiac,Grand Prix,92.364,Passenger
+Pontiac,Bonneville,35.945,Passenger
+Pontiac,Montana,39.572,Car
+Porsche,Boxter,8.982,Passenger
+Porsche,Carrera Coupe,1.28,Passenger
+Porsche,Carrera Cabrio,1.866,Passenger
+Saturn,SL,80.62,Passenger
+Saturn,SC,24.546,Passenger
+Saturn,SW,5.223,Passenger
+Saturn,LW,8.472,Passenger
+Saturn,LS,49.989,Passenger
+Subaru,Outback,47.107,Passenger
+Subaru,Forester,33.028,Car
+Toyota,Corolla,142.535,Passenger
+Toyota,Camry,247.994,Passenger
+Toyota,Avalon,63.849,Passenger
+Toyota,Celica,33.269,Passenger
+Toyota,Tacoma,84.087,Car
+Toyota,Sienna,65.119,Car
+Toyota,RAV4,25.106,Car
+Toyota,4Runner,68.411,Car
+Toyota,Land Cruiser,9.835,Car
+Volkswagen,Golf,9.761,Passenger
+Volkswagen,Jetta,83.721,Passenger
+Volkswagen,Passat,51.102,Passenger
+Volkswagen,Cabrio,9.569,Passenger
+Volkswagen,GTI,5.596,Passenger
+Volkswagen,Beetle,49.463,Passenger
+Volvo,S40,16.957,Passenger
+Volvo,V40,3.545,Passenger
+Volvo,S70,15.245,Passenger
+Volvo,V70,17.531,Passenger
+Volvo,C70,3.493,Passenger
+Volvo,S80,18.969,Passenger
